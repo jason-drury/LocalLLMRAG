@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "LocalLLMRAG"
+  site-url: "https://jason-drury.github.io/LocalLLMRAG"
+  description: "Creating a LLM with RAG"
+  repo-branch: main
+  repo-url: "https://github.com/jason-drury/LocalLLMRAG"
